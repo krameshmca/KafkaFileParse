@@ -42,3 +42,14 @@ https://www.confluent.io/blog/apache-kafka-to-amazon-s3-exactly-once/
 https://github.com/karande/kafka-producer-file
 
 https://github.com/linkedin/brooklin/issues/674
+
+----------------------
+https://stackoverflow.com/questions/19158118/implementing-large-file-uploads-via-http
+apache commons fileupload
+https://stackoverflow.com/questions/15432024/how-to-upload-a-file-using-commons-file-upload-streaming-api
+
+https://blog.daftcode.pl/how-to-make-uploading-10x-faster-f5b3f9cfcd52
+
+https://www.callicoder.com/configuring-spring-boot-application/
+
+https://www.baeldung.com/spring-resttemplate-compressing-requests
